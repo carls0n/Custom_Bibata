@@ -19,7 +19,7 @@ I also added the rounded, more modern Bibata cursor as default, along with the a
 which cursor you want to use via the -s (--style) option using -s classic (modern is default)
 
 I added options for -b $COLOR to change the color of the cursor
-border. Use -b none for no border.<br><br>
+border. Use -b none for no border.<br>
 
 ### Usage Example
 
