@@ -1,8 +1,4 @@
 
-<h1 align="center">
-  <img src="https://github.com/carls0n/Custom_Bibata/blob/main/image/Bibata.png">
-  
-</h1>
 
 ### Custom Bibata Cursor</h4>
 
