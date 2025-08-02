@@ -14,24 +14,24 @@ since changed. Those were fixed.
 I also added the rounded, more modern Bibata cursor as default, along with the ability to choose
 which cursor you want to use via the -s (--style) option using -s classic (modern is default)
 
-I added options for -b $COLOR to change the color of the cursor
+I added options for -b $RGB to change the color of the cursor
 border. Use -b none for no border.<br>
 
 ### Usage Example
 
-In this example we will create a salmon-colored cursor theme.
+In this example we will create an orange_cream cursor theme.
 
 1. Build
    ```shell
    git clone https://github.com/carls0n/Custom_Bibata.git
-   cd Custom_Bibata/
-   ./build.sh -n Bibata_Salmon -c "#fa8072"
+   cd Custom_Bibata
+   ./build.sh -n Orange_Cream -c "#ff8c00 "
    ```
 
 2. Install for current user. Settings may be different for your desktop environment, window manager.
    ```shell
    mkdir  ~/.icons/
-   cp -r Bibata_Salmon ~/.icons/
+   cp -r Orange_Cream ~/.icons/
    ```
 
 3. Use your distro's tool to change cursors. i.e, Menu -> Applications -> Settings -> Mouse And Touchpad
