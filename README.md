@@ -23,8 +23,8 @@ In this example we will create a salmon-colored cursor theme.
 
 1. Build
    ```shell
-   git clone https://github.com/carls0n/Bibata_Cursor.git
-   cd Bibata_Cursor/
+   git clone https://github.com/carls0n/Custom_Bibata.git
+   cd Custom_Bibata/
    ./build.sh -n Bibata_Salmon -c "#fa8072"
    ```
 
