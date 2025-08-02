@@ -22,14 +22,19 @@ border. Use -b none for no border.<br>
 In this example we will create an orange_cream cursor theme.
 
 ### Build your custom Bibata cursors</h4>
-   git clone https://github.com/carls0n/Custom_Bibata.git<br>
-   cd Custom_Bibata<br>
+
+```shell
+   git clone https://github.com/carls0n/Custom_Bibata.git
+   cd Custom_Bibata
    ./build.sh -n Orange_Cream -c "#ff8c00"
+```
 
 
 ### Install your custom cursor theme</h4>
-   mkdir  ~/.icons/<br>
+```shell
+   mkdir  ~/.icons/
    cp -r Orange_Cream ~/.icons/
+```
 
    ###  Activate your custom Bibata cursor theme</h4>
    Example: Menu -> Applications -> Settings -> Mouse and Touchpad -> Theme -> Orange_Cream
