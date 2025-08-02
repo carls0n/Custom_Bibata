@@ -26,6 +26,7 @@ In this example we will create an orange_cream cursor theme.
 ```shell
    git clone https://github.com/carls0n/Custom_Bibata.git
    cd Custom_Bibata
+   chmod 755 build.sh
    ./build.sh -n Orange_Cream -c "#ff8c00"
 ```
 
