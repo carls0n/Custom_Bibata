@@ -37,7 +37,6 @@ In this example we will create an orange_cream cursor theme.
 3. Use your distro's tool to change cursors. i.e, Menu -> Applications -> Settings -> Mouse And Touchpaad<br><br>
 <p align="center">
 <img src="https://github.com/carls0n/Custom_Bibata/blob/main/image/classic.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=https://github.com/carls0n/Custom_Bibata/blob/main/image/modern.png>
-
 </center>
 
 
