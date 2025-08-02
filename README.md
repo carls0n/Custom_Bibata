@@ -21,21 +21,20 @@ border. Use -b none for no border.<br>
 
 In this example we will create an orange_cream cursor theme.
 
-1. Build
-   ```shell
-   git clone https://github.com/carls0n/Custom_Bibata.git
-   cd Custom_Bibata
+### Build your custom Bibata cursors</h4>
+   git clone https://github.com/carls0n/Custom_Bibata.git<br>
+   cd Custom_Bibata<br>
    ./build.sh -n Orange_Cream -c "#ff8c00"
-   ```
 
-2. Install for current user. Settings may be different for your desktop environment, window manager.
-   ```shell
-   mkdir  ~/.icons/
+
+### Install your custom cursor theme</h4>
+   mkdir  ~/.icons/<br>
    cp -r Orange_Cream ~/.icons/
-   ```
 
-3. Use your distro's tool to change cursors. i.e, Menu -> Applications -> Settings -> Mouse And Touchpaad<br><br>
-#
+   ###  Activate your custom Bibata cursor theme
+   Example: Menu -> Applications -> Settings -> Mouse and Touchpad -> Theme -> Orange_Cream
+   
+---
 
 Custom Bibata Cursor is based on [Bibata
 Cursor](https://github.com/KaizIqbal/Bibata_Cursor/blob/master/README.md). All
