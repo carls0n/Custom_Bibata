@@ -17,7 +17,7 @@ which cursor you want to use via the -s (--style) option using -s classic (moder
 I added options for -b $RGB to change the color of the cursor
 border. Use -b none for no border.<br>
 
-### Usage Example
+### Usage Example</h4>
 
 In this example we will create an orange_cream cursor theme.
 
@@ -31,11 +31,9 @@ In this example we will create an orange_cream cursor theme.
    mkdir  ~/.icons/<br>
    cp -r Orange_Cream ~/.icons/
 
-   ###  Activate your custom Bibata cursor theme
+   ###  Activate your custom Bibata cursor theme</h4>
    Example: Menu -> Applications -> Settings -> Mouse and Touchpad -> Theme -> Orange_Cream
-   
----
-
+   ***
 Custom Bibata Cursor is based on [Bibata
 Cursor](https://github.com/KaizIqbal/Bibata_Cursor/blob/master/README.md). All
 credit goes to the author @KaizIqbal.
