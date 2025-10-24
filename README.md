@@ -14,8 +14,7 @@ since changed. Those were fixed.
 I also added the rounded, more modern Bibata cursor as default, along with the ability to choose
 which cursor you want to use via the -s (--style) option using -s classic (modern is default)
 
-I added options for -b $RGB to change the color of the cursor
-border. Use -b none for no border.<br>
+I added options for -b $RGB to change the color of the cursor border. For example -b #000000. Use -b none for no border.<br>
 
 ### Usage Example</h4>
 
