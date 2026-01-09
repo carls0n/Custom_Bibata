@@ -18,7 +18,7 @@ I added options for -b $RGB to change the color of the cursor border. For exampl
 
 ### Usage Example</h4>
 
-In this example we will create an orange_cream cursor theme.
+In this example we will create a BlackMagic cursor theme to match my BlackMagic theme. -> https://github.com/carls0n/BlackMagic
 
 ### Build your custom Bibata cursors</h4>
 
@@ -26,18 +26,23 @@ In this example we will create an orange_cream cursor theme.
    git clone https://github.com/carls0n/Custom_Bibata.git
    cd Custom_Bibata
    chmod 755 build.sh
-   ./build.sh -n Orange_Cream -c "#ff8c00"
+   ./build.sh -n "BlackMagic" -c "#161616" -b "d3d3d3"
 ```
 
 
 ### Install your custom cursor theme</h4>
 ```shell
    mkdir  ~/.icons/
-   cp -r Orange_Cream ~/.icons/
+   cp -r BlackMagic ~/.icons/
 ```
 
    ###  Activate your custom Bibata cursor theme</h4>
-   Example: Menu -> Applications -> Settings -> Mouse and Touchpad -> Theme -> Orange_Cream
+   Example: Menu -> Applications -> Settings -> Mouse and Touchpad -> Theme -> BlackMagic
+   
+   You can set the cursor theme from the command line once it's moved into ~/.icons
+   ```shell
+xfconf-query -c xsettings -p /Gtk/CursorThemeName -s "BlackMagic"
+```
    ***
 Custom Bibata Cursor is based on [Bibata
 Cursor](https://github.com/KaizIqbal/Bibata_Cursor/blob/master/README.md). All
