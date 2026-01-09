@@ -18,7 +18,7 @@ I added options for -b $RGB to change the color of the cursor border. For exampl
 
 ### Usage Example</h4>
 
-In this example we will create a BlackMagic cursor theme to match my BlackMagic theme. -> https://github.com/carls0n/BlackMagic
+In this example we will create a BlackMagic cursor theme to match my BlackMagic theme. https://github.com/carls0n/BlackMagic
 
 ### Build your custom Bibata cursors</h4>
 
