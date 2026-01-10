@@ -50,4 +50,4 @@ xfconf-query -c xsettings -p /Gtk/CursorThemeSize -s "36"
 Custom Bibata Cursor is based on 
 [Bibata Cursor](https://github.com/KaizIqbal/Bibata_Cursor/blob/master/README.md) All
 credit goes to the author @KaizIqbal.<br><br>
-![BlackMagic screenshot](https://github.com/carls0n/Custom_Bibata/blob/main/ssnew.png))
+![BlackMagic screenshot](https://github.com/carls0n/Custom_Bibata/blob/main/ssnew.png)
