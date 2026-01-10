@@ -24,7 +24,7 @@ In this example we will create a BlackMagic cursor theme to match my BlackMagic 
 
 ```shell
    git clone https://github.com/carls0n/Custom_Bibata.git
-   cd Custom_Bibata
+   cd Custom_Bibatahttps://github.com/KaizIqbal/Bibata_Cursor/blob/master/README.md
    chmod 755 build.sh
    ./build.sh -n "BlackMagic" -c "#161616" -b "#d3d3d3"
 ```
@@ -47,7 +47,7 @@ xfconf-query -c xsettings -p /Gtk/CursorThemeName -s "BlackMagic"
 xfconf-query -c xsettings -p /Gtk/CursorThemeSize -s "36"
 ```
    ***
-Custom Bibata Cursor is based on [Bibata
-Cursor](https://github.com/KaizIqbal/Bibata_Cursor/blob/master/README.md). All
-credit goes to the author @KaizIqbal.
- 
+Custom Bibata Cursor is based on 
+[Bibata Cursor](https://github.com/KaizIqbal/Bibata_Cursor/blob/master/README.md) All
+credit goes to the author @KaizIqbal.<br><br>
+![BlackMagic screenshot](https://github.com/carls0n/Custom_Bibata/blob/main/ssnew.png))
