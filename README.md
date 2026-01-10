@@ -44,7 +44,7 @@ In this example we will create a BlackMagic cursor theme to match my BlackMagic 
 xfconf-query -c xsettings -p /Gtk/CursorThemeName -s "BlackMagic"
 ```
 ```shell
-xfconf-query -c xsettings -p /Gtk/CursorThemeSize -s "36""
+xfconf-query -c xsettings -p /Gtk/CursorThemeSize -s "36"
 ```
    ***
 Custom Bibata Cursor is based on [Bibata
