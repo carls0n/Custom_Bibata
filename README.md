@@ -6,7 +6,7 @@ Custom Bibata Cursor lets you to create your own Bibata Cursor Theme by specifyi
 any name and any color. There are also some predefined themes. See `./build.sh
 --help` for details.
 
-I found this script in non working condition at https://github.com/pascal-huber/Bibata_RGB_Cursor.
+I found this script in non working condition at https://github.com/pascal-huber/Bibata_RGB_Cursor.<br>
 I changed a few things in order to get the script working, namely the commands for inkscape have
 since changed. Those were fixed.
 
