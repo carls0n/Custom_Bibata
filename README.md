@@ -39,9 +39,12 @@ In this example we will create a BlackMagic cursor theme to match my BlackMagic 
    ###  Activate your custom Bibata cursor theme</h4>
    Example: Menu -> Applications -> Settings -> Mouse and Touchpad -> Theme -> BlackMagic
    
-   You can also set the cursor theme from the command line once it's moved into ~/.icons
+   You can also set the cursor theme and cursor size from the command line once it's moved into ~/.icons
    ```shell
 xfconf-query -c xsettings -p /Gtk/CursorThemeName -s "BlackMagic"
+```
+```shell
+xfconf-query -c xsettings -p /Gtk/CursorThemeSize -s "36""
 ```
    ***
 Custom Bibata Cursor is based on [Bibata
