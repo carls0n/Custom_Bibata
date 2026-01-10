@@ -24,7 +24,7 @@ In this example we will create a BlackMagic cursor theme to match my BlackMagic 
 
 ```shell
    git clone https://github.com/carls0n/Custom_Bibata.git
-   cd Custom_Bibatahttps://github.com/KaizIqbal/Bibata_Cursor/blob/master/README.md
+   cd Custom_Bibata
    chmod 755 build.sh
    ./build.sh -n "BlackMagic" -c "#161616" -b "#d3d3d3"
 ```
